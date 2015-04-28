@@ -6,6 +6,8 @@ Iterate values in a list in random order
 npm install random-iterate
 ```
 
+[![build status](http://img.shields.io/travis/mafintosh/random-iterate.svg?style=flat)](http://travis-ci.org/mafintosh/random-iterate)
+
 ## Usage
 
 ``` js
