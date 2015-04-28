@@ -1,7 +1,7 @@
 {
   "name": "random-iterate",
   "version": "1.0.0",
-  "description": "WIP - nothing to see here",
+  "description": "Iterate values in a list in random order",
   "main": "index.js",
   "devDependencies": {
     "standard": "^3.7.2",
